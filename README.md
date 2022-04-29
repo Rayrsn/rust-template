@@ -6,7 +6,7 @@
   <img width=70% height=70% src="<PROJECT_URL>/raw/main/images/<MAIN_IMAGE_NAME>.png?raw=true" alt="MAIN_IMAGE_NAME">
 </p>
 
-[![Rust](https://github.com/Rayrsn/PROJECT_NAME/actions/workflows/rust.yml/badge.svg)](https://github.com/Rayrsn/PROJECT_NAME/actions/workflows/rust.yml)
+[![Status Badge](https://github.com/Rayrsn/PROJECT_NAME/actions/workflows/rust.yml/badge.svg)](https://github.com/Rayrsn/PROJECT_NAME/actions/workflows/rust.yml)
 
 </div>
 
