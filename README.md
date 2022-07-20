@@ -14,11 +14,11 @@
 FEATURES_HERE
 
 
-## Building
+## Building 🔨
 BUILD_INSTRUCTIONS
 * **The executable will be located in target/release/PROJECT_NAME**
 
-## Usage
+## Usage 📚
 USAGE_INSTRUCTIONS
 
 
