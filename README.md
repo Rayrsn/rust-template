@@ -26,4 +26,4 @@ USAGE_INSTRUCTIONS
 ACKNOWLEDGEMENTS
 
 ## Questions
-### If yall have any questions or just wanna talk, add me on [Discord](https://rayr.ml/LinkInBio) or use my username Rayr#6709 (this might change so it's better to just use the link)
+### If yall have any questions or just wanna talk, add me on [Discord](https://rayr.ml/LinkInBio) or use my username Rayr#6401 (this might change so it's better to just use the link)
